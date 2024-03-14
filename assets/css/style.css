@@ -1,0 +1,12 @@
+* { padding: 10; margin: 5; box-sizing: border-box; } 
+h1 { color: #ff2f2f } 
+h2 { color: #8a2be2 } 
+h3 { background-color: #0ff } 
+h3 { color: rgb(49, 31, 207); font-size: 38px; background-color: #8a2be2; } 
+.ADELINA { background-color: brown; padding: 10px 20px 10px 5px; margin: 5px 10px 15px 5px; } 
+.ARCE { background-color:rgb(224, 231, 231); } 
+.span-test { color: #ff2f2f; } 
+.line-through { text-decoration: line-through; } 
+.qspanf {quotes: "\00ab" "\00bb";}
+.qspane {quotes:  "\201c" "\201d";}
+.smallP {margin-block-start: 10px; margin-block-end: 10px; margin-inline-start: 30px; margin-inline-end: 3000px;} 
