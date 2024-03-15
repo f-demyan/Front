@@ -10,3 +10,22 @@ h3 { color: rgb(49, 31, 207); font-size: 38px; background-color: #8a2be2; }
 .qspanf { quotes: "\00ab" "\00bb"; } 
 .qspane { quotes: "\201c" "\201d"; } 
 .smallP { margin-block-start: 10px; margin-block-end: 10px; margin-inline-start: 30px; margin-inline-end: 3000px; } 
+p {
+    font-size: 16px;
+    text-align: justify;
+}
+.container { 
+    max-width: 1600px; height: 150px; background-color: rgb(140, 135, 168); 
+margin-left: auto;
+margin-right: auto;
+padding-left: 10px;
+padding-right: 10px;
+} 
+/************/
+.banner {
+    background-color: aqua;
+}
+
+.banner .container {
+    background-color: antiquewhite;
+}
