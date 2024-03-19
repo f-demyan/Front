@@ -15,17 +15,24 @@ p {
     text-align: justify;
 }
 .container { 
-    max-width: 1600px; height: 150px; background-color: rgb(140, 135, 168); 
-margin-left: auto;
-margin-right: auto;
-padding-left: 10px;
-padding-right: 10px;
+    max-width: 1600px; height: 150px; 
+    /* background-color: rgb(60, 37, 187); */
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
 } 
 /************/
 .banner {
-    background-color: aqua;
+    background-color: rgb(195, 228, 228);
 }
 
 .banner .container {
-    background-color: antiquewhite;
+    background-image: url(../img/images.jpg);
+    background-color: rgb(117, 73, 14);
+}
+
+.main {
+    background-color: bisque;
+    margin-top: 50px;
 }
