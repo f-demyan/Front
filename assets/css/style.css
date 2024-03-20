@@ -30,6 +30,7 @@ p {
 .banner .container {
     background-image: url(../img/images.jpg);
     background-color: rgb(117, 73, 14);
+    background-repeat: no-repeat;
 }
 
 .main {
