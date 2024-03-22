@@ -15,12 +15,9 @@ p {
     text-align: justify;
 }
 .container { 
-    max-width: 1600px; height: 150px; 
-    /* background-color: rgb(60, 37, 187); */
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 10px;
-    padding-right: 10px;
+    max-width: 1419px;
+    margin: 0 auto;
+    padding: 0 12px;
 } 
 /************/
 .banner {
@@ -36,4 +33,13 @@ p {
 .main {
     background-color: bisque;
     margin-top: 50px;
+}
+
+.example {
+    background: #98ff9d;
+    padding: 100px 0;
+}
+
+.example-title {
+    margin-bottom: 24px;
 }
